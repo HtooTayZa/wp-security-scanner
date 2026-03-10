@@ -21,7 +21,7 @@ An advanced WordPress security scanner with **AI-powered vulnerability analysis*
 
 1. Copy the `wp-security-scanner` folder to `/wp-content/plugins/`
 2. Activate the plugin in **Plugins → Installed Plugins**
-3. Go to **Security Scanner → Settings** and enter your **Anthropic API key**
+3. Go to **Security Scanner → Settings** and enter your **API key**
 4. Navigate to **Security Scanner** and click **Launch Security Scan**
 
 ---
